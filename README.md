@@ -14,7 +14,7 @@ In this code-along, we will practice working with control flow in JavaScript.
 
 ## Introduction
 
-You have been hired as a contractor for Scuber,  a burgeoning startup that helps
+You have been hired as a contractor for Scuber, a burgeoning startup that helps
 busy parents transport their children to and from all of their activities on
 scooters.
 
